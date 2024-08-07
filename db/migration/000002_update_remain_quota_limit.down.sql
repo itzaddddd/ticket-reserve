@@ -1,0 +1,2 @@
+ALTER TABLE events
+DROP CONSTRAINT remain_quota_nonnegative
